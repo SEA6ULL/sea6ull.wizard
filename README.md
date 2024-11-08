@@ -1,5 +1,5 @@
-# plugin.program.ragnarok
-Ragnarok
+# sea6ull.wizard
+SEA6ULL
 
 # THIS PROJECT IS A FORK OF: https://github.com/a4k-openproject/plugin.program.openwizard
 
