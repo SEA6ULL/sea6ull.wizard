@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR crimson][B]SEA6ULL[/B][/COLOR]Wizard'
 BUILDERNAME = 'SEA6ULL'
 EXCLUDES = [ADDON_ID, 'sea6ull.wizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://github.com/SEA6ULL/Wizard/blob/c7cc63cd358f9d98d7cb301fee768d982fce8ca0/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/SEA6ULL/Wizard/master/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
